@@ -60,8 +60,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dunoiww&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="200" alt="stats graph" object-fit: cover;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dunoiww&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox_light&hide_border=false&order=2" height="200" alt="languages graph"  object-fit: cover;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dunoiww&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="Streak Stats" style="height: 200px; object-fit: cover;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunoiww&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="height: 200px; object-fit: cover;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dunoiww&theme=dracula&hide_border=false" alt="Stats" style="height: calc(400px - 200px); object-fit: cover;">
 </div>
+
 
 ###
