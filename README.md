@@ -1,10 +1,11 @@
-<h1 align="center">Hi there 👋</h1>
 
-###
-
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dunoiww.dunoiww&"  />
+<div align="center">
+  <img height="200" src="https://t4.ftcdn.net/jpg/02/78/68/55/360_F_278685521_SkqNloBUKvVrUwHOx6jTeiG8vIlkCvZV.jpg"  />
 </div>
+
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=false&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ngo+Nam!;" />
+</h1>
 
 ###
 
@@ -59,12 +60,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dunoiww&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dunoiww&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox_light&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dunoiww&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="200" alt="stats graph" object-fit: cover;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dunoiww&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox_light&hide_border=false&order=2" height="200" alt="languages graph"  object-fit: cover;"/>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/dunoiww/dunoiww/output/snake.svg" alt="Snake animation" />
 
 ###
